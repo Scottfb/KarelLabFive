@@ -21,7 +21,7 @@ public class DefendDemocracyDriver implements Directions
         World.setBeeperColor(Color.black);
         World.setStreetColor(Color.gray);
         World.setNeutroniumColor(Color.black);
-        World.setDelay(10);  
+        World.setDelay(30);  
         World.setVisible(true);
     }
 }
